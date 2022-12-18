@@ -1,0 +1,53 @@
+7
+Failing to remain at the scene of a collision
+Failing to stop for police
+6
+Careless driving
+Racing
+Exceeding the speed limit by 50 km/h or more
+Failing to stop for a school bus
+5
+Driver of bus failing to stop at unprotected railway crossing
+4
+Exceeding the speed limit by 30 to 49 km/h
+Following to closely
+3
+Exceeding speed limit by 16 to 29 km/h
+Driving through, around or under a railway crossing barrier
+Driving while holding or using a hand-held wireless communication/entertainment device
+Driving while viewing a display screen unrelated to the driving task
+Failing to yield the right-of-way
+Failing to obey a stop sign, traffic light or railway crossing signal
+Failing to obey traffic control stop sign
+Failing to obey traffic control slow sign
+Failing to obey the direction of a police officer
+Driving the wrong way on a divided road
+Failing to report a collision to a police officer
+Improper driving where road is divided into lanes
+Crowding the driver's seat
+Going the wrong way on a one-way road
+Driving or operating a vehicle on a closed road
+Crossing a divided road where no proper crossing is provided
+Failing to slow and carefully pass a stopped emergency vehicle
+Failing to stop at a pedestrian crossover
+Failing to move, where possible, into another lane when passing a stopped emergency vehicle
+Driving a vehicle that is equipped with, or carrying, a speed measuring warning device
+Improper use of a high occupancy vehicle (HOV) lane
+2
+Failing to lower headlights beam
+Improper opening of a vehicle door
+Prohibited turns
+Towing people -- on tobaggans, bicycles, skis, for example
+Failing to obey signs
+Failing to share the road
+Improper right turn
+Improper left turn
+Failing to signal
+Unnecessary slow driving
+Reversing on a highway
+Driver failing to wear a seatbelt
+Driver failing to ensure infant passenger is secured
+Driver failing to ensure toddler passenger is secured
+Driver failing to ensure child is secured
+Driver failing to ensure passenger under 16 years is wearing a seatbelt
+Driver failing to ensure passenger under 16 years is occupying a position with a seatbelt
