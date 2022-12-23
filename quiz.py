@@ -93,11 +93,11 @@ class QuizWindow(ttk.Frame):
         self.current_problem = self.list_offences.pop(random.randint(0, len(self.list_offences)-1))
         self.text_variable_problem.set(self.current_problem.name)
 
-    def close(self):
+    def close(self) -> bool:
         """Asks the user if they want to close the window, saves the score and total (if they exist)
          to the demerit-points results.txt file and closes the window"""
         if not tk.messagebox.askokcancel("Quit", "Do you want to quit?"):
-            return
+            return False
 
         if self.total:
             with open('Results.txt', 'a+') as f:
@@ -110,6 +110,7 @@ class QuizWindow(ttk.Frame):
                         f'{self.total} total attempts. \n')
                 f.write(str(time.ctime()))
         self.destroy()
+        return True
 
 
 def main():
@@ -119,8 +120,8 @@ def main():
 
     def on_close():
         """Operation to be performed when closing the window and root objects"""
-        window.close()
-        root.destroy()
+        if window.close():
+            root.destroy()
 
     root.protocol('WM_DELETE_WINDOW', on_close)
     root.mainloop()
