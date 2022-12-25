@@ -95,7 +95,8 @@ class QuizWindow(ttk.Frame):
 
     def close(self) -> bool:
         """Asks the user if they want to close the window, saves the score and total (if they exist)
-         to the demerit-points results.txt file and closes the window"""
+         to the Results.txt file and closes the window. Returns true if the window needs to closed and false otherwise
+         """
         if not tk.messagebox.askokcancel("Quit", "Do you want to quit?"):
             return False
 
